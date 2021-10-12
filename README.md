@@ -30,7 +30,7 @@ Za úkol máš nakódovat design podle grafického návrhu.
 
   - Skript zapoj do stránky přidáním `<script src="fslightbox.js"></script>`.
 
-  - Jednotlivé obrázky obal značkou `<a>` s atributem `data-fslightbox` podle [dokumentace](https://fslightbox.com/javascript/documentation/how-to-use). Do adresy `href` dej stejnou cestu jako je v `src`. V ideálním případě bychom měli každý obrázek aspoň ve dvou velikostech. Menší by se používala v `src` pro zobrazení v mřížce, kde jsou jen náhledy obrázků. Do `href` by pak přišla větší varianta, kterou fslightbox stáhne, až když uživatel obrázek do detailu. Tentokrát optimalizaci pro zjednodušení vynecháme.
+  - Jednotlivé obrázky obal značkou `<a>` s atributem `data-fslightbox` podle [dokumentace](https://fslightbox.com/javascript/documentation/how-to-use). Do adresy `href` dej stejnou cestu jako je v `src`. V ideálním případě bychom měli každý obrázek aspoň ve dvou velikostech. Menší by se používala v `src` pro zobrazení v mřížce, kde jsou jen náhledy obrázků. Do `href` by pak přišla větší varianta, kterou fslightbox stáhne, až když uživatel obrázek rozklikne do detailu. Tentokrát optimalizaci pro zjednodušení vynecháme.
 
 - Vyzkoušej, že na jednotlivé obrázky lze kliknout a že se stránka zatmaví se zvětšeným obrázkem.
 
