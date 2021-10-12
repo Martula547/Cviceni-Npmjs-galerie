@@ -24,7 +24,7 @@ Za úkol máš nakódovat design podle grafického návrhu.
 
 - Umožni uživateli rozkliknout jednotlivé fotky do detailu přes celou obrazovku pomocí [fslightbox](https://www.npmjs.com/package/fslightbox).
 
-  - Pomocí tlačítka [Download](https://fslightbox.com/javascript/download) stáhni ZIP archiv se souborem `fslightbox.js`.
+  - Přes tlačítko [Download](https://fslightbox.com/javascript/download) stáhni ZIP archiv se souborem `fslightbox.js`.
 
   - ZIP rozbal a `fslightbox.js` přesuň do složky s úkolem.
 
